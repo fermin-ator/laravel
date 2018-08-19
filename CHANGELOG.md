@@ -1,7 +1,9 @@
 # Release Notes
 
 ## v5.6.12 (2018-03-14)
-
+#
+# By Ferminator ...
+#
 ### Added
 - Added message for `not_regex` validation rule ([#4602](https://github.com/laravel/laravel/pull/4602))
 - Added `signed` middleware alias for `ValidateSignature` ([4369e91](https://github.com/laravel/laravel/commit/4369e9144ce1062941eda2b19772dbdcb10e9027))
